@@ -1,0 +1,51 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{B2522372-B2C9-08E8-B351-FE9E7688A69F}") = "Pick and Place 27_GFT_FYP_v15", "Assembly-CSharp-firstpass-vs.csproj", "{07EEEDFD-2EC1-1920-8259-701C03C75FBF}"
+EndProject
+Project("{B2522372-B2C9-08E8-B351-FE9E7688A69F}") = "Pick and Place 27_GFT_FYP_v15", "Assembly-CSharp-vs.csproj", "{A58D178F-D523-735D-F3A8-CD210CF15F71}"
+EndProject
+Project("{B2522372-B2C9-08E8-B351-FE9E7688A69F}") = "Pick and Place 27_GFT_FYP_v15", "Assembly-CSharp-Editor-vs.csproj", "{82015641-63C8-03A1-5646-7AA88F608766}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07EEEDFD-2EC1-1920-8259-701C03C75FBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07EEEDFD-2EC1-1920-8259-701C03C75FBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07EEEDFD-2EC1-1920-8259-701C03C75FBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07EEEDFD-2EC1-1920-8259-701C03C75FBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A58D178F-D523-735D-F3A8-CD210CF15F71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A58D178F-D523-735D-F3A8-CD210CF15F71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A58D178F-D523-735D-F3A8-CD210CF15F71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A58D178F-D523-735D-F3A8-CD210CF15F71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82015641-63C8-03A1-5646-7AA88F608766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82015641-63C8-03A1-5646-7AA88F608766}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82015641-63C8-03A1-5646-7AA88F608766}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82015641-63C8-03A1-5646-7AA88F608766}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																																	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal

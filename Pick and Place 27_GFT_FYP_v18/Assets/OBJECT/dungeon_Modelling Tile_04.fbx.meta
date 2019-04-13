@@ -1,0 +1,112 @@
+fileFormatVersion: 2
+guid: 32ebb7b10425e5e429a70d9f0eb9e370
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: tyt:dungeon_Tile_04_Front_Roof
+    100004: tyt:dungeon_Tile_04_Front_Wall
+    100006: tyt:dungeon_Tile_04_Left_Roof
+    100008: tyt:dungeon_Tile_04_Left_Wall
+    100010: tyt:dungeon_Tile_04_Right_Roof
+    100012: tyt:dungeon_Tile_04_Right_Wall
+    400000: //RootNode
+    400002: tyt:dungeon_Tile_04_Front_Roof
+    400004: tyt:dungeon_Tile_04_Front_Wall
+    400006: tyt:dungeon_Tile_04_Left_Roof
+    400008: tyt:dungeon_Tile_04_Left_Wall
+    400010: tyt:dungeon_Tile_04_Right_Roof
+    400012: tyt:dungeon_Tile_04_Right_Wall
+    2300000: tyt:dungeon_Tile_04_Front_Roof
+    2300002: tyt:dungeon_Tile_04_Front_Wall
+    2300004: tyt:dungeon_Tile_04_Left_Roof
+    2300006: tyt:dungeon_Tile_04_Left_Wall
+    2300008: tyt:dungeon_Tile_04_Right_Roof
+    2300010: tyt:dungeon_Tile_04_Right_Wall
+    3300000: tyt:dungeon_Tile_04_Front_Roof
+    3300002: tyt:dungeon_Tile_04_Front_Wall
+    3300004: tyt:dungeon_Tile_04_Left_Roof
+    3300006: tyt:dungeon_Tile_04_Left_Wall
+    3300008: tyt:dungeon_Tile_04_Right_Roof
+    3300010: tyt:dungeon_Tile_04_Right_Wall
+    4300000: polySurface317
+    4300002: polySurface319
+    4300004: polySurface321
+    4300006: polySurface322
+    4300008: polySurface335
+    4300010: polySurface336
+    4300012: polySurface337
+    4300014: polySurface338
+    4300016: dungeon_Tile_04_Front_Roof
+    4300018: dungeon_Tile_04_Left_Wall
+    4300020: dungeon_Tile_04_Right_Wall
+    4300022: dungeon_Tile_04_Left_Roof
+    4300024: dungeon_Tile_04_Right_Roof
+    4300026: dungeon_Tile_04_Front_Wall
+    4300028: tyt:dungeon_Tile_04_Left_Roof
+    4300030: tyt:dungeon_Tile_04_Right_Roof
+    4300032: tyt:dungeon_Tile_04_Front_Wall
+    4300034: tyt:dungeon_Tile_04_Front_Roof
+    4300036: tyt:dungeon_Tile_04_Left_Wall
+    4300038: tyt:dungeon_Tile_04_Right_Wall
+    6400000: tyt:dungeon_Tile_04_Front_Roof
+    6400002: tyt:dungeon_Tile_04_Front_Wall
+    6400004: tyt:dungeon_Tile_04_Left_Roof
+    6400006: tyt:dungeon_Tile_04_Left_Wall
+    6400008: tyt:dungeon_Tile_04_Right_Roof
+    6400010: tyt:dungeon_Tile_04_Right_Wall
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

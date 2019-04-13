@@ -1,0 +1,2 @@
+Product ID,Published State,Purchase Type,Auto Translate,Locale; Title; Description,Auto Fill Prices,Price
+gold,published,managed_by_android,false,";gold;500 gold",true,0

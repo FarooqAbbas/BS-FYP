@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Character Controllers\Sources\Scripts\ThirdPersonController.js">
+    <Files>
+      <File FileName="Assets\Game Scripts\Leve 02 Cave Scripts\ChildActivation.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game Scripts\Functional_Scripts\PickingAndPlacing.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game Scripts\Functional_Scripts\ObstacleFiring.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game Scripts\Design Interface\inventory.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game Scripts\Leve 02 Cave Scripts\PickingAndPlacingLevel2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game Scripts\Leve 02 Cave Scripts\IAmObstacle.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game Scripts\Leve 02 Cave Scripts\ParticleParentWork.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game Scripts\Leve 02 Cave Scripts\ObjectCreationLevel2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game Scripts\Functional_Scripts\GameOverRetryMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\ThirdPersonController.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

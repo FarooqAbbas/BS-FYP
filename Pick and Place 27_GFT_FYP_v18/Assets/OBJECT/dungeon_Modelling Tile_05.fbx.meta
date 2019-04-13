@@ -1,0 +1,127 @@
+fileFormatVersion: 2
+guid: f1177503863a28c409758d86752eb182
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: dungeon_Tile_05_Front_Left_Roof
+    100004: dungeon_Tile_05_Front_Left_Wall
+    100006: dungeon_Tile_05_Front_Right_Roof
+    100008: dungeon_Tile_05_Front_Right_Wall
+    100010: dungeon_Tile_05_Left_Roof2
+    100012: dungeon_Tile_05_Left_Wall
+    100014: dungeon_Tile_05_Right_Roof
+    100016: dungeon_Tile_05_Right_Wall
+    400000: //RootNode
+    400002: dungeon_Tile_05_Front_Left_Roof
+    400004: dungeon_Tile_05_Front_Left_Wall
+    400006: dungeon_Tile_05_Front_Right_Roof
+    400008: dungeon_Tile_05_Front_Right_Wall
+    400010: dungeon_Tile_05_Left_Roof2
+    400012: dungeon_Tile_05_Left_Wall
+    400014: dungeon_Tile_05_Right_Roof
+    400016: dungeon_Tile_05_Right_Wall
+    2300000: dungeon_Tile_05_Front_Left_Roof
+    2300002: dungeon_Tile_05_Front_Left_Wall
+    2300004: dungeon_Tile_05_Front_Right_Roof
+    2300006: dungeon_Tile_05_Front_Right_Wall
+    2300008: dungeon_Tile_05_Left_Roof2
+    2300010: dungeon_Tile_05_Left_Wall
+    2300012: dungeon_Tile_05_Right_Roof
+    2300014: dungeon_Tile_05_Right_Wall
+    3300000: dungeon_Tile_05_Front_Left_Roof
+    3300002: dungeon_Tile_05_Front_Left_Wall
+    3300004: dungeon_Tile_05_Front_Right_Roof
+    3300006: dungeon_Tile_05_Front_Right_Wall
+    3300008: dungeon_Tile_05_Left_Roof2
+    3300010: dungeon_Tile_05_Left_Wall
+    3300012: dungeon_Tile_05_Right_Roof
+    3300014: dungeon_Tile_05_Right_Wall
+    4300000: polySurface165
+    4300002: polySurface372
+    4300004: polySurface360
+    4300006: polySurface362
+    4300008: polySurface365
+    4300010: polySurface368
+    4300012: polySurface369
+    4300014: polySurface370
+    4300016: polySurface371
+    4300018: polySurface404
+    4300020: polySurface405
+    4300022: dungeon_Tile_05_Front_Right_Wall
+    4300024: dungeon_Tile_05_Front_Left_Wall
+    4300026: dungeon_Tile_05_Left_Wall
+    4300028: dungeon_Tile_05_Right_Wall
+    4300030: dungeon_Tile_05_Front_Left_Roof
+    4300032: dungeon_Tile_05_Front_Right_Roof
+    4300034: dungeon_Tile_05_Right_Roof
+    4300036: dungeon_Tile_05_Left_Roof
+    4300038: dungeon_Tile_05_Left_Wall2
+    4300040: dungeon_Tile_05_Left_Roof1
+    4300042: dungeon_Tile_05_Left_Wall3
+    4300044: dungeon_Tile_05_Left_Roof2
+    4300046: dungeon_Tile_05_Left_Wall4
+    4300048: dungeon_Tile_05_Left_Roof3
+    6400000: dungeon_Tile_05_Front_Left_Roof
+    6400002: dungeon_Tile_05_Front_Left_Wall
+    6400004: dungeon_Tile_05_Front_Right_Roof
+    6400006: dungeon_Tile_05_Front_Right_Wall
+    6400008: dungeon_Tile_05_Left_Roof2
+    6400010: dungeon_Tile_05_Left_Wall
+    6400012: dungeon_Tile_05_Right_Roof
+    6400014: dungeon_Tile_05_Right_Wall
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

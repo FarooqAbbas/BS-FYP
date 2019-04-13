@@ -1,0 +1,31 @@
+{
+  "iOSSKU": "102",
+  "androidBillingPlatform": "GooglePlay",
+  "GooglePlayPublicKey": "[Your key]",
+  "useAmazonSandbox": false,
+  "UseWP8MockingFramework": false,
+  "useHostedConfig": false,
+  "hostedConfigUrl": null,
+  "UseWin8_1Sandbox": false,
+  "samsungAppsMode": "PRODUCTION",
+  "samsungAppsItemGroupId": "",
+  "purchasableItems": {
+    "gold": {
+      "@id": "gold",
+      "@purchaseType": "NonConsumable",
+      "name": "gold",
+      "description": "500 gold",
+      "platforms": {
+        "GooglePlay": {},
+        "AmazonAppstore": {},
+        "SamsungApps": {},
+        "AppleAppStore": {},
+        "MacAppStore": {},
+        "WindowsPhone8": {},
+        "Windows8_1": {},
+        "UnityEditor": {}
+      }
+    }
+  },
+  "currencies": {}
+}

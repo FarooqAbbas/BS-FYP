@@ -1,0 +1,298 @@
+fileFormatVersion: 2
+guid: bf10cefe24b4db44983d89d5a1c8aa5d
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: dregon_001_sos2:polySurface408
+    100002: //RootNode
+    100004: joint1
+    100006: joint10
+    100008: joint11
+    100010: joint12
+    100012: joint13
+    100014: joint14
+    100016: joint15
+    100018: joint16
+    100020: joint17
+    100022: joint18
+    100024: joint19
+    100026: joint2
+    100028: joint20
+    100030: joint21
+    100032: joint22
+    100034: joint23
+    100036: joint24
+    100038: joint25
+    100040: joint26
+    100042: joint27
+    100044: joint28
+    100046: joint28 1
+    100048: joint29
+    100050: joint29 1
+    100052: joint3
+    100054: joint30
+    100056: joint30 1
+    100058: joint31
+    100060: joint31 1
+    100062: joint32
+    100064: joint32 1
+    100066: joint33
+    100068: joint33 1
+    100070: joint34
+    100072: joint34 1
+    100074: joint35
+    100076: joint35 1
+    100078: joint36
+    100080: joint36 1
+    100082: joint37
+    100084: joint37 1
+    100086: joint38
+    100088: joint38 1
+    100090: joint39
+    100092: joint39 1
+    100094: joint4
+    100096: joint40
+    100098: joint40 1
+    100100: joint41
+    100102: joint41 1
+    100104: joint42
+    100106: joint42 1
+    100108: joint43
+    100110: joint44
+    100112: joint45
+    100114: joint46
+    100116: joint47
+    100118: joint48
+    100120: joint49
+    100122: joint5
+    100124: joint50
+    100126: joint51
+    100128: joint52
+    100130: joint53
+    100132: joint54
+    100134: joint55
+    100136: joint56
+    100138: joint57
+    100140: joint58
+    100142: joint59
+    100144: joint6
+    100146: joint60
+    100148: joint61
+    100150: joint62
+    100152: joint63
+    100154: joint64
+    100156: joint65
+    100158: joint66
+    100160: joint67
+    100162: joint68
+    100164: joint69
+    100166: joint7
+    100168: joint70
+    100170: joint71
+    100172: joint72
+    100174: joint73
+    100176: joint74
+    100178: joint75
+    100180: joint8
+    100182: joint9
+    100184: nurbsCircle1
+    100186: polySurface440
+    100188: polySurface443
+    100190: polySurface445
+    100192: polySurface446
+    100194: polySurface448
+    100196: polySurface449
+    100198: polySurface450
+    100200: polySurface471
+    100202: polySurface472
+    400000: dregon_001_sos2:polySurface408
+    400002: //RootNode
+    400004: joint1
+    400006: joint10
+    400008: joint11
+    400010: joint12
+    400012: joint13
+    400014: joint14
+    400016: joint15
+    400018: joint16
+    400020: joint17
+    400022: joint18
+    400024: joint19
+    400026: joint2
+    400028: joint20
+    400030: joint21
+    400032: joint22
+    400034: joint23
+    400036: joint24
+    400038: joint25
+    400040: joint26
+    400042: joint27
+    400044: joint28
+    400046: joint28 1
+    400048: joint29
+    400050: joint29 1
+    400052: joint3
+    400054: joint30
+    400056: joint30 1
+    400058: joint31
+    400060: joint31 1
+    400062: joint32
+    400064: joint32 1
+    400066: joint33
+    400068: joint33 1
+    400070: joint34
+    400072: joint34 1
+    400074: joint35
+    400076: joint35 1
+    400078: joint36
+    400080: joint36 1
+    400082: joint37
+    400084: joint37 1
+    400086: joint38
+    400088: joint38 1
+    400090: joint39
+    400092: joint39 1
+    400094: joint4
+    400096: joint40
+    400098: joint40 1
+    400100: joint41
+    400102: joint41 1
+    400104: joint42
+    400106: joint42 1
+    400108: joint43
+    400110: joint44
+    400112: joint45
+    400114: joint46
+    400116: joint47
+    400118: joint48
+    400120: joint49
+    400122: joint5
+    400124: joint50
+    400126: joint51
+    400128: joint52
+    400130: joint53
+    400132: joint54
+    400134: joint55
+    400136: joint56
+    400138: joint57
+    400140: joint58
+    400142: joint59
+    400144: joint6
+    400146: joint60
+    400148: joint61
+    400150: joint62
+    400152: joint63
+    400154: joint64
+    400156: joint65
+    400158: joint66
+    400160: joint67
+    400162: joint68
+    400164: joint69
+    400166: joint7
+    400168: joint70
+    400170: joint71
+    400172: joint72
+    400174: joint73
+    400176: joint74
+    400178: joint75
+    400180: joint8
+    400182: joint9
+    400184: nurbsCircle1
+    400186: polySurface440
+    400188: polySurface443
+    400190: polySurface445
+    400192: polySurface446
+    400194: polySurface448
+    400196: polySurface449
+    400198: polySurface450
+    400200: polySurface471
+    400202: polySurface472
+    2300000: dregon_001_sos2:polySurface408
+    2300002: polySurface440
+    2300004: polySurface443
+    2300006: polySurface445
+    2300008: polySurface448
+    2300010: polySurface449
+    2300012: polySurface450
+    3300000: dregon_001_sos2:polySurface408
+    3300002: polySurface440
+    3300004: polySurface443
+    3300006: polySurface445
+    3300008: polySurface448
+    3300010: polySurface449
+    3300012: polySurface450
+    4300000: polySurface449
+    4300002: polySurface440
+    4300004: polySurface448
+    4300006: polySurface445
+    4300008: polySurface443
+    4300010: dregon_001_sos2:polySurface408
+    4300012: polySurface450
+    4300014: polySurface446
+    4300016: polySurface471
+    4300018: polySurface472
+    6400000: dregon_001_sos2:polySurface408
+    6400002: polySurface440
+    6400004: polySurface443
+    6400006: polySurface445
+    6400008: polySurface448
+    6400010: polySurface449
+    6400012: polySurface450
+    11100000: //RootNode
+    13700000: polySurface446
+    13700002: polySurface471
+    13700004: polySurface472
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

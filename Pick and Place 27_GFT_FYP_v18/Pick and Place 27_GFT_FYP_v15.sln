@@ -1,0 +1,75 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{B2522372-B2C9-08E8-B351-FE9E7688A69F}") = "Pick and Place 27_GFT_FYP_v15", "Assembly-CSharp-firstpass.csproj", "{07EEEDFD-2EC1-1920-8259-701C03C75FBF}"
+EndProject
+Project("{B2522372-B2C9-08E8-B351-FE9E7688A69F}") = "Pick and Place 27_GFT_FYP_v15", "Assembly-CSharp.csproj", "{A58D178F-D523-735D-F3A8-CD210CF15F71}"
+EndProject
+Project("{B2522372-B2C9-08E8-B351-FE9E7688A69F}") = "Pick and Place 27_GFT_FYP_v15", "Assembly-CSharp-Editor.csproj", "{82015641-63C8-03A1-5646-7AA88F608766}"
+EndProject
+Project("{B2522372-B2C9-08E8-B351-FE9E7688A69F}") = "Pick and Place 27_GFT_FYP_v15", "Assembly-UnityScript-firstpass.unityproj", "{6F6F334A-B12A-0AAC-1A7F-78EAB52B6496}"
+EndProject
+Project("{B2522372-B2C9-08E8-B351-FE9E7688A69F}") = "Pick and Place 27_GFT_FYP_v15", "Assembly-UnityScript.unityproj", "{21F2520A-16FE-F6F2-86E8-22CB07B2CE5B}"
+EndProject
+Project("{B2522372-B2C9-08E8-B351-FE9E7688A69F}") = "Pick and Place 27_GFT_FYP_v15", "Assembly-UnityScript-Editor-firstpass.unityproj", "{7570A54A-F0C4-BFE2-28AD-75AD3E50AF0D}"
+EndProject
+Project("{B2522372-B2C9-08E8-B351-FE9E7688A69F}") = "Pick and Place 27_GFT_FYP_v15", "Assembly-UnityScript-Editor.unityproj", "{713CEAB4-EA02-AD4F-2E1D-9E9EFE39520B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07EEEDFD-2EC1-1920-8259-701C03C75FBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07EEEDFD-2EC1-1920-8259-701C03C75FBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07EEEDFD-2EC1-1920-8259-701C03C75FBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07EEEDFD-2EC1-1920-8259-701C03C75FBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A58D178F-D523-735D-F3A8-CD210CF15F71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A58D178F-D523-735D-F3A8-CD210CF15F71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A58D178F-D523-735D-F3A8-CD210CF15F71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A58D178F-D523-735D-F3A8-CD210CF15F71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82015641-63C8-03A1-5646-7AA88F608766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82015641-63C8-03A1-5646-7AA88F608766}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82015641-63C8-03A1-5646-7AA88F608766}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82015641-63C8-03A1-5646-7AA88F608766}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F6F334A-B12A-0AAC-1A7F-78EAB52B6496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F6F334A-B12A-0AAC-1A7F-78EAB52B6496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F6F334A-B12A-0AAC-1A7F-78EAB52B6496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F6F334A-B12A-0AAC-1A7F-78EAB52B6496}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21F2520A-16FE-F6F2-86E8-22CB07B2CE5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21F2520A-16FE-F6F2-86E8-22CB07B2CE5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21F2520A-16FE-F6F2-86E8-22CB07B2CE5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21F2520A-16FE-F6F2-86E8-22CB07B2CE5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7570A54A-F0C4-BFE2-28AD-75AD3E50AF0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7570A54A-F0C4-BFE2-28AD-75AD3E50AF0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7570A54A-F0C4-BFE2-28AD-75AD3E50AF0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7570A54A-F0C4-BFE2-28AD-75AD3E50AF0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{713CEAB4-EA02-AD4F-2E1D-9E9EFE39520B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{713CEAB4-EA02-AD4F-2E1D-9E9EFE39520B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{713CEAB4-EA02-AD4F-2E1D-9E9EFE39520B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{713CEAB4-EA02-AD4F-2E1D-9E9EFE39520B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																																GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal

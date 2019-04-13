@@ -1,0 +1,9 @@
+{
+  "gold": {
+    "itemType": "ENTITLED",
+    "description": "500 gold",
+    "price": 0.99,
+    "smallIconUrl": "http://example.com",
+    "title": "gold"
+  }
+}
